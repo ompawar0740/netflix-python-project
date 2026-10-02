@@ -1,0 +1,11 @@
+[theme]
+base = "light"
+primaryColor = "#E50914"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F5F5"
+textColor = "#222222"
+linkColor = "#B20710"
+redColor = "#E50914"
+redTextColor = "#B20710"
+borderColor = "#E0E0E0"
+chartCategoricalColors = ["#E50914", "#292929", "#B20710", "#777777", "#FF646D"]
